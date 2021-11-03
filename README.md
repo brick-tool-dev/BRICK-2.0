@@ -12,9 +12,7 @@ Diﬀerent from the existing tools, **BRICK** supports the checking of codes wit
 ---
 
 ## Install
-`zip -s0 brickPart.zip --out brick.zip`
-
-and
+download `brick.zip` to the directory you want and execute:
 
 `unzip brick.zip`
 
