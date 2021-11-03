@@ -12,9 +12,11 @@ Diﬀerent from the existing tools, **BRICK** supports the checking of codes wit
 ---
 
 ## Install
-download `brick.zip` to the directory you want and execute:
+download `brick.zip` to the directory you want and run Unix command:
 
 `unzip brick.zip`
+
+Attention: `brick.zip` is stored with Git LFS due to the file size.
 
 ---
 
