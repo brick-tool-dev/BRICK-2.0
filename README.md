@@ -2,7 +2,7 @@
 **BRICK**: A Bounded Verifier for C code
 
 ## Introduction
-**BRICK** is a bounded reachability checker for numerically intensive C code, with special emphasis on handling nonlinear operations. It supports user-speciﬁed safety speciﬁcation checking as well as built-in assertionchecking.
+**BRICK** is a bounded reachability checker for numerically intensive C code, with special emphasis on handling nonlinear operations. It supports user-speciﬁed safety speciﬁcation checking as well as built-in assertion checking.
 
 Diﬀerent from the existing tools, **BRICK** supports the checking of codes with nonlinear operations. e.g. trigonometric functions, exponential functions by delta-decision SMT solver dReal. **BRICK** has scaled well on realistic programs in evaluation, e.g. the benchmarks in SV-Comp.
 
