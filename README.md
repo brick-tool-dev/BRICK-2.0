@@ -33,4 +33,4 @@ Attention: `brick.zip` is stored with Git LFS due to the file size.
 ---
 
 ## Team Members
-Lei Bu, Zhunyi Xie, Lecheng Lyu, Yichao Li, Xiao Guo and Xuandong Li
+Lei Bu, Zhunyi Xie, Lecheng Lyu, Yichao Li, Xiao Guo, Jianhua Zhao and Xuandong Li
